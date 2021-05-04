@@ -1,9 +1,9 @@
 # udemy-tailwindcss
 
-Projetos do curso [Tailwind CSS do básico ao avançado](https://www.udemy.com/course/tailwind-css-do-basico-ao-avancado-com-projetos/)
+Projects from the course [Tailwind CSS do básico ao avançado](https://www.udemy.com/course/tailwind-css-do-basico-ao-avancado-com-projetos/)
 
 
-## Inicializar um projeto
+## Initialize a project
 
 ```
 npm install -g live-server
@@ -12,13 +12,13 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
 npx tailwindcss init
 ```
 
-## Build do styles.css
+## Build styles.css
 
 ```
 npx tailwindcss bulid styles.css -o src/css/styles.css
 ```
 
-## Iniciar o servidor local
+## Start local server
 
 ```
 live-server src
