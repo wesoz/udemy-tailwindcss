@@ -25,7 +25,7 @@ Create a file named styles.css in the root folder and put this in the content:
 Then create the directory src/css and run:
 
 ```
-npx tailwindcss bulid styles.css -o src/css/styles.css
+npx tailwindcss build styles.css -o src/css/styles.css
 ```
 
 ## Start local server
